@@ -1,5 +1,8 @@
 # cows-and-bulls-game-string
-The cows and bulls game, You choose a word and I guesses a word. 
-You say bulls when a character in my guess's match with a character in your's word and also it is in the correct position as in your's word.
-You say cows, when a character in my guess's word match the character in your word, but it is not in the correct position. 
+
+A person thinks of any isogram word and gives out the number of letters in the word. 
+The computer tries to figure that word by guessing isogram words containing the same number of letters. 
+Person responds with the number of Cows & Bulls for each guessed word. 
+"Cow" means a letter in the wrong position, while "Bull" means a letter in the right position.
+
 ALERT: Don't utter your word only say cows and bulls.
